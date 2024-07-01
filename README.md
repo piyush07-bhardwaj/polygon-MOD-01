@@ -9,7 +9,7 @@ you will deploy an NFT collection on the Ethereum blockchain, Map the collection
 1. Clone the repository:
 
    ```bash
-    https://github.com/Kayleexx/Poly-zkSNARK-Circuit.git
+    https://github.com/piyush07-bhardwaj/polygon-MOD-01
    
 2. Install the required dependencies :
 
